@@ -73,3 +73,15 @@
 根據不同的 View 會有不同的設定，貌似全部寫在同一個物件裡就可以了。
 
 + [View Type: Multi Month Grid](https://fullcalendar.io/docs/multimonth-grid)
+
+--
+
+**Month View Specific Options**
+
++ [showNonCurrentDates](https://fullcalendar.io/docs/showNonCurrentDates)
+
+是否要填滿月曆上的空格。預設值為 `true`。
+
+因爲每個月份的格子數量都是固定的，所以前後會把其他月份的一起填補上去。
+
+如果改為 `false`，就只會顯示當前月份的日子。
