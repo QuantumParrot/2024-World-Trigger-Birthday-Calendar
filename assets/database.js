@@ -261,12 +261,16 @@ export default {
             birth: '04-05',
         },
         {
+            title: '茶野真',
+            birth: '10-30',
+        },
+        {
             title: '藤澤樹',
             birth: '04-10',
         },
         {
-            title: '茶野真',
-            birth: '10-30',
+            title: '十倉惠',
+            birth: '05-01',
         },
         {
             title: '嵐山准',
